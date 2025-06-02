@@ -21,7 +21,7 @@ To simulate how machine learning can be used in healthcare for early identificat
 6. Visualising top predictors of readmission
 
 ### 📊 Feature Importance Example
-![Feature Importance] (Images\feature-importance.png)
+[Feature Importance](Images\feature-importance.png)
 
 ### 🗂️ File Structure
 - `Notebooks\readmission_analysis.ipynb` – Main notebook
