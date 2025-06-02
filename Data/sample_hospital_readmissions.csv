@@ -1,0 +1,6 @@
+age,num_medications,time_in_hospital,number_inpatient,number_emergency,number_diagnoses,A1Cresult,insulin,change,diabetesMed,readmitted_binary
+[70-80),13,3,0,0,9,>8,No,Ch,Yes,1
+[60-70),8,2,0,1,6,None,Up,No,Yes,0
+[50-60),11,4,1,0,7,>7,Steady,Ch,Yes,1
+[40-50),6,1,0,0,5,Norm,Down,Ch,No,0
+[30-40),9,2,0,0,4,None,No,No,Yes,0
